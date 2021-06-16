@@ -1,7 +1,8 @@
 import Bio from "./Components/bio"
 import Footer from "./Components/footer"
 import './App.css';
-import Navigation from "./Components/nav"
+import Navigation from "./Components/nav";
+import Projects from "./Components/projects";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
      <Navigation />
      <Bio />
      <Footer />
+     <Projects />
      
     </div>
   );
