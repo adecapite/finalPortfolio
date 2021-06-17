@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 body {
@@ -20,14 +20,14 @@ body {
     text-align: center;
 }
 .col {
-    padding-top: 50px;
+    /* padding-top: 50px; */
     margin-top: 75px;
     margin-bottom: 50px;
     /* padding: 100px; */
-    border-radius: 50px;
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+    
     height: 450px;
-    /* justify-content: space-around; */
+    justify-content: space-around;
 }
 .jumbotron h1 {
     top: 10px;
@@ -53,12 +53,12 @@ body {
 }
 
 .navbar{
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   
 }
 .AbtImg, .card-img.AbtImg{
     background: #fff;
     border-radius: 7px;
-    box-shadow: 0 2px 5px #ccc;
+    
     padding: 10px;
     width: fit-content;
     margin-top: 100px;
@@ -76,7 +76,7 @@ h3 {
 .about {
     background: #fff;
     border-radius: 7px;
-    box-shadow: 0 2px 5px #ccc;
+   
     padding: 10px;
     width: 240px;
     float: left;
@@ -85,13 +85,13 @@ h3 {
 }
 h4 {
     text-align: center;
-    color: white;
-    text-shadow: 0px 0px 10px black;
+    color: pink;
+    
     padding-top: 300px;
 }
 .card {
     border-radius: 7px;
-    box-shadow: 0 2px 5px #ccc;
+    
     padding: 10px;
     text-align: center;
     margin-top: 100px;

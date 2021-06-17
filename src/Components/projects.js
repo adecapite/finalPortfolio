@@ -17,7 +17,7 @@ function Projects() {
         <Row>
             <Col style={{backgroundImage: `url(${budget})`, backgroundSize: 'cover'}}>
             <a href="https://billsbillsbills.herokuapp.com/">
-        <h4>Budget Tracker<SocialIcon bgColor="white" url="https://billsbillsbills.herokuapp.com/" /></h4>
+        <h4>Budget Tracker</h4>
             </a>
             
             </Col>

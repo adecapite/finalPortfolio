@@ -1,17 +1,19 @@
 import Bio from "./Components/bio"
 import Footer from "./Components/footer"
 import './App.css';
-import Navigation from "./Components/nav";
+import './style.css'
+
 import Projects from "./Components/projects";
+import Navbar from "./Components/nav/nav";
 
 function App() {
   return (
     <div className="App">
-     <Navigation />
+     <Navbar />
      <Bio />
-     <Footer />
-     <Projects />
      
+     <Projects />
+     <Footer />
     </div>
   );
 }
