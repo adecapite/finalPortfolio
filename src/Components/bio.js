@@ -8,7 +8,7 @@ function bio(){
             <h3 id="bio">Meet The Designer</h3>
             <Card.Body>
             <Card.Img varient="top"
-        src={Me} className="AbtImg" alt="professional headshot of developer" />
+        src={Me} className="AbtImg" alt="myface" />
             <Card.Text>
                 Hello! My name is Anthony DeCapite.
                 Soon to be full stack developer learning to love React and not want to throw myself out the window while using it.

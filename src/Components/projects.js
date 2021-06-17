@@ -23,29 +23,29 @@ function Projects() {
             </Col>
             <Col style={{backgroundImage: `url(${flare})`, backgroundSize: 'cover'}}>
             <a href="https://github.com/adecapite/groupEighteen">
-        <h4>Flare: A tool for vicitims of domtestic violence.<SocialIcon bgColor="white" url="https://github.com/adecapite/groupEighteen" /></h4>
+        <h4>Flare: A tool for vicitims of domtestic violence.</h4>
             </a>
             </Col>
             <Col style={{backgroundImage: `url(${notes})`, backgroundSize: 'cover'}}>
             <a href="https://notesnotesnotes.herokuapp.com/">
-        <h4>Note taking app <SocialIcon bgColor="white" url="https://notesnotesnotes.herokuapp.com/" /></h4>
+        <h4>Note taking app</h4>
             </a>
             </Col>
         </Row>
         <Row>
             <Col style={{backgroundImage: `url(${weather})`, backgroundSize: 'cover'}}>
             <a href="https://github.com/adecapite/weatherDashboard">
-        <h4>Local weatehr dashboard <SocialIcon bgColor="white" url="https://github.com/adecapite/weatherDashboard" /></h4>
+        <h4>Local weather dashboard </h4>
             </a>
             </Col>
             <Col style={{backgroundImage: `url(${planner})`, backgroundSize: 'cover'}}>
             <a href="https://github.com/adecapite/dailyPlanner"> 
-        <h4>Day Planner<SocialIcon bgColor="white" url="https://github.com/adecapite/dailyPlanner" /></h4>
+        <h4>Day Planner</h4>
             </a>
             </Col>
             <Col style={{backgroundImage: `url(${horiseon})`, backgroundSize: 'cover'}}> 
             <a href="https://github.com/adecapite/horiseon_coderefactor">
-        <h4>Refactor of a professional site <SocialIcon bgColor="white" url="https://github.com/adecapite/horiseon_coderefactor" /></h4>
+        <h4>Refactor of a professional site</h4>
             </a>
             </Col>
         </Row>
