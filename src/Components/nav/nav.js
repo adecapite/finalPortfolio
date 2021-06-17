@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import { Navbar,Nav,NavDropdown } from 'react-bootstrap';
 import { MenuItems } from './menuitems';
 import "./navbar.css"
 

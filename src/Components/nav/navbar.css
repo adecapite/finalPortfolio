@@ -23,3 +23,15 @@
     width: 70vw;
     justify-content: end;
 }
+
+.nav-links{
+    color: white;
+    text-decoration: none;
+    padding: 0.5 rem 1 rem;
+}
+
+.nav-links:hover{
+    background-color: white;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}

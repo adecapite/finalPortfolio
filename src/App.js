@@ -1,6 +1,5 @@
 import Bio from "./Components/bio"
 import Footer from "./Components/footer"
-import './App.css';
 import './style.css'
 
 import Projects from "./Components/projects";
