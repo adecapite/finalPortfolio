@@ -4,11 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { SocialIcon } from 'react-social-icons';
 import budget from '../images/budget.png';
-import flare from '../images/flare copy.png';
+import flare from '../images/flare.png';
 import notes from '../images/notesnotesnotes.png'
-import weather from '../images/weather copy.png'
-import planner from '../images/planner copy.png'
-import horiseon from '../images/horiseonrefactor copy.jpeg';
+import weather from '../images/weather.png'
+import planner from '../images/planner.png'
+import horiseon from '../images/horiseonrefactor.jpeg'
 
 function Projects() {
     return(

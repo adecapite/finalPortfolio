@@ -11,10 +11,12 @@ function Footer() {
       <h3 id="contact-me">Contact Me</h3>
       
       <Card.Body id="contact-me">
-      <Card.Link href="https://www.linkedin.com/in/anthony-decapite-688a9759/"><SocialIcon url="https://www.linkedin.com/in/anthony-decapite-688a9759/" /></Card.Link>
-      <Card.Link href="https://github.com/adecapite"><SocialIcon url="https://github.com/adecapite" /></Card.Link>
       <Card.Link ><SocialIcon url="anthony.decapite@icloud.com" network="email"/></Card.Link>
       <Card.Link href="https://drive.google.com/file/d/10Vh6Uta8m189AAyMi9V1xK2bOBCEwg09/view?usp=sharing"><SocialIcon network="google" /></Card.Link>
+      <Card.Link href="https://www.linkedin.com/in/anthony-decapite-688a9759/"><SocialIcon url="https://www.linkedin.com/in/anthony-decapite-688a9759/" /></Card.Link>
+      <Card.Link href="https://github.com/adecapite"><SocialIcon url="https://github.com/adecapite" /></Card.Link>
+      
+      
       </Card.Body>
       <p>Copyright ⓒ {currentYear}</p>
       </Card>
