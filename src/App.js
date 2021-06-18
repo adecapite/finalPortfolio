@@ -7,12 +7,21 @@ import Navbar from "./Components/nav/nav";
 
 function App() {
   return (
+    <Router>
     <div className="App">
      <Navbar />
-     <Bio />
-     <Projects />
+     <switch>
+     {/* <Bio />
+     <Projects /> */}
+     <Route exact path="/" component={Bio}></Route>
+     <Route exact path="/Projects" component={Projects}></Route>
+     
+     </switch>
+   
      <Footer />
     </div>
+    </Router>
+  
   );
 }
 
