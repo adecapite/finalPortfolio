@@ -11,7 +11,9 @@ function bio(){
         src={Me} className="AbtImg" alt="myface" />
             <Card.Text>
                 Hello! My name is Anthony DeCapite.
-                Soon to be full stack developer learning to love React and not want to throw myself out the window while using it.
+                Recent graduate of The Ohio State University's Coding Boot Camp.
+                Specalzing in UI Design with a favor of writing in React.
+                A dog father of one, and has a penchant for using the word penchant.
             </Card.Text>
             </Card.Body>
         </Card>
